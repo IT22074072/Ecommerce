@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KanishkaMahanama\\source\\repos\\EcommerceBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4593D968-4FF8-4657-87A7-3AD5AB45DBF7}|EcommerceBackend\\EcommerceBackend.csproj|c:\\users\\kanishkamahanama\\source\\repos\\ecommercebackend\\ecommercebackend\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4593D968-4FF8-4657-87A7-3AD5AB45DBF7}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4593D968-4FF8-4657-87A7-3AD5AB45DBF7}|EcommerceBackend\\EcommerceBackend.csproj|c:\\users\\kanishkamahanama\\source\\repos\\ecommercebackend\\ecommercebackend\\ecommercebackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4593D968-4FF8-4657-87A7-3AD5AB45DBF7}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\ecommercebackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4593D968-4FF8-4657-87A7-3AD5AB45DBF7}|EcommerceBackend\\EcommerceBackend.csproj|c:\\users\\kanishkamahanama\\source\\repos\\ecommercebackend\\ecommercebackend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4593D968-4FF8-4657-87A7-3AD5AB45DBF7}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4593D968-4FF8-4657-87A7-3AD5AB45DBF7}|EcommerceBackend\\EcommerceBackend.csproj|c:\\users\\kanishkamahanama\\source\\repos\\ecommercebackend\\ecommercebackend\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4593D968-4FF8-4657-87A7-3AD5AB45DBF7}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4593D968-4FF8-4657-87A7-3AD5AB45DBF7}|EcommerceBackend\\EcommerceBackend.csproj|c:\\users\\kanishkamahanama\\source\\repos\\ecommercebackend\\ecommercebackend\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4593D968-4FF8-4657-87A7-3AD5AB45DBF7}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4593D968-4FF8-4657-87A7-3AD5AB45DBF7}|EcommerceBackend\\EcommerceBackend.csproj|c:\\users\\kanishkamahanama\\source\\repos\\ecommercebackend\\ecommercebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4593D968-4FF8-4657-87A7-3AD5AB45DBF7}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4593D968-4FF8-4657-87A7-3AD5AB45DBF7}|EcommerceBackend\\EcommerceBackend.csproj|c:\\users\\kanishkamahanama\\source\\repos\\ecommercebackend\\ecommercebackend\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4593D968-4FF8-4657-87A7-3AD5AB45DBF7}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\data\\ecommercedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4593D968-4FF8-4657-87A7-3AD5AB45DBF7}|EcommerceBackend\\EcommerceBackend.csproj|c:\\users\\kanishkamahanama\\source\\repos\\ecommercebackend\\ecommercebackend\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4593D968-4FF8-4657-87A7-3AD5AB45DBF7}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4593D968-4FF8-4657-87A7-3AD5AB45DBF7}|EcommerceBackend\\EcommerceBackend.csproj|c:\\users\\kanishkamahanama\\source\\repos\\ecommercebackend\\ecommercebackend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4593D968-4FF8-4657-87A7-3AD5AB45DBF7}|EcommerceBackend\\EcommerceBackend.csproj|solutionrelative:ecommercebackend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1514,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\KanishkaMahanama\\source\\repos\\EcommerceBackend\\EcommerceBackend\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\KanishkaMahanama\\source\\repos\\EcommerceBackend\\EcommerceBackend\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "EcommerceBackend\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwCwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:49:14.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\KanishkaMahanama\\source\\repos\\EcommerceBackend\\EcommerceBackend\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\KanishkaMahanama\\source\\repos\\EcommerceBackend\\EcommerceBackend\\Controllers\\CartController.cs",
+              "RelativeToolTip": "EcommerceBackend\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:46:33.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KanishkaMahanama\\source\\repos\\EcommerceBackend\\EcommerceBackend\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\KanishkaMahanama\\source\\repos\\EcommerceBackend\\EcommerceBackend\\Program.cs",
+              "RelativeToolTip": "EcommerceBackend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:40:47.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\KanishkaMahanama\\source\\repos\\EcommerceBackend\\EcommerceBackend\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\KanishkaMahanama\\source\\repos\\EcommerceBackend\\EcommerceBackend\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "EcommerceBackend\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAmwBcAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:39:47.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EcommerceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\KanishkaMahanama\\source\\repos\\EcommerceBackend\\EcommerceBackend\\Data\\EcommerceDbContext.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Data\\EcommerceDbContext.cs",
+              "ToolTip": "C:\\Users\\KanishkaMahanama\\source\\repos\\EcommerceBackend\\EcommerceBackend\\Data\\EcommerceDbContext.cs",
+              "RelativeToolTip": "EcommerceBackend\\Data\\EcommerceDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:38:20.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EcommerceBackend",
+              "DocumentMoniker": "C:\\Users\\KanishkaMahanama\\source\\repos\\EcommerceBackend\\EcommerceBackend\\EcommerceBackend.csproj",
+              "RelativeDocumentMoniker": "EcommerceBackend\\EcommerceBackend.csproj",
+              "ToolTip": "C:\\Users\\KanishkaMahanama\\source\\repos\\EcommerceBackend\\EcommerceBackend\\EcommerceBackend.csproj",
+              "RelativeToolTip": "EcommerceBackend\\EcommerceBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-20T02:38:08.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\KanishkaMahanama\\source\\repos\\EcommerceBackend\\EcommerceBackend\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\KanishkaMahanama\\source\\repos\\EcommerceBackend\\EcommerceBackend\\Models\\Order.cs",
+              "RelativeToolTip": "EcommerceBackend\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:36:40.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\KanishkaMahanama\\source\\repos\\EcommerceBackend\\EcommerceBackend\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\KanishkaMahanama\\source\\repos\\EcommerceBackend\\EcommerceBackend\\Models\\CartItem.cs",
+              "RelativeToolTip": "EcommerceBackend\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:35:50.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\KanishkaMahanama\\source\\repos\\EcommerceBackend\\EcommerceBackend\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EcommerceBackend\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\KanishkaMahanama\\source\\repos\\EcommerceBackend\\EcommerceBackend\\Models\\Product.cs",
+              "RelativeToolTip": "EcommerceBackend\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T02:34:19.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
